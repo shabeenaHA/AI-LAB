@@ -137,5 +137,3 @@ goalIndex = (1, 0)
 p = Puzzle(start, startIndex, goal, goalIndex)
 p.solve()
 p.print()
-Footer
-© 2022 GitHub, Inc.
